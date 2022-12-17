@@ -1,0 +1,14 @@
+D:\DAIHOC_HAUI\KY1_NAM3_HAUI\.net\KT1\Kiemtra1\Kiemtra1\bin\Debug\netcoreapp3.1\Kiemtra1.exe
+D:\DAIHOC_HAUI\KY1_NAM3_HAUI\.net\KT1\Kiemtra1\Kiemtra1\bin\Debug\netcoreapp3.1\Kiemtra1.deps.json
+D:\DAIHOC_HAUI\KY1_NAM3_HAUI\.net\KT1\Kiemtra1\Kiemtra1\bin\Debug\netcoreapp3.1\Kiemtra1.runtimeconfig.json
+D:\DAIHOC_HAUI\KY1_NAM3_HAUI\.net\KT1\Kiemtra1\Kiemtra1\bin\Debug\netcoreapp3.1\Kiemtra1.runtimeconfig.dev.json
+D:\DAIHOC_HAUI\KY1_NAM3_HAUI\.net\KT1\Kiemtra1\Kiemtra1\bin\Debug\netcoreapp3.1\Kiemtra1.dll
+D:\DAIHOC_HAUI\KY1_NAM3_HAUI\.net\KT1\Kiemtra1\Kiemtra1\bin\Debug\netcoreapp3.1\Kiemtra1.pdb
+D:\DAIHOC_HAUI\KY1_NAM3_HAUI\.net\KT1\Kiemtra1\Kiemtra1\obj\Debug\netcoreapp3.1\Kiemtra1.csproj.AssemblyReference.cache
+D:\DAIHOC_HAUI\KY1_NAM3_HAUI\.net\KT1\Kiemtra1\Kiemtra1\obj\Debug\netcoreapp3.1\Kiemtra1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAIHOC_HAUI\KY1_NAM3_HAUI\.net\KT1\Kiemtra1\Kiemtra1\obj\Debug\netcoreapp3.1\Kiemtra1.AssemblyInfoInputs.cache
+D:\DAIHOC_HAUI\KY1_NAM3_HAUI\.net\KT1\Kiemtra1\Kiemtra1\obj\Debug\netcoreapp3.1\Kiemtra1.AssemblyInfo.cs
+D:\DAIHOC_HAUI\KY1_NAM3_HAUI\.net\KT1\Kiemtra1\Kiemtra1\obj\Debug\netcoreapp3.1\Kiemtra1.csproj.CoreCompileInputs.cache
+D:\DAIHOC_HAUI\KY1_NAM3_HAUI\.net\KT1\Kiemtra1\Kiemtra1\obj\Debug\netcoreapp3.1\Kiemtra1.dll
+D:\DAIHOC_HAUI\KY1_NAM3_HAUI\.net\KT1\Kiemtra1\Kiemtra1\obj\Debug\netcoreapp3.1\Kiemtra1.pdb
+D:\DAIHOC_HAUI\KY1_NAM3_HAUI\.net\KT1\Kiemtra1\Kiemtra1\obj\Debug\netcoreapp3.1\Kiemtra1.genruntimeconfig.cache

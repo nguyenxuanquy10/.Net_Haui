@@ -1,0 +1,35 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" BorderBrush="Blue" BorderThickness="2">
+    <Grid >
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="94*"/>
+            <ColumnDefinition Width="105*"/>
+        </Grid.ColumnDefinitions>
+        
+        <Label Content="Quản Lí Nhân Viên" HorizontalAlignment="Left" Margin="340,31,0,0" VerticalAlignment="Top" Width="241" FontWeight="Bold" Background="White" Foreground="#FF2CC733" Grid.ColumnSpan="2"/>
+        <Label Content="Họ tên nhân viên " Margin="73,0,118,297" Height="32" VerticalAlignment="Bottom"/>
+        <Label Content="Số tiền bán hàng " Margin="73,0,119,169" Height="32" VerticalAlignment="Bottom"/>
+        <Label Content="Ngày sinh" Margin="73,0,118,217" Height="32" VerticalAlignment="Bottom"/>
+        <Label Content="Loại nhân viên " Margin="73,0,118,260" Height="32" VerticalAlignment="Bottom"/>
+        <TextBox x:Name="txtName" HorizontalAlignment="Left" Margin="251,112,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="208" Grid.ColumnSpan="2" />
+        <ComboBox x:Name="txtLoaiNhanVien" HorizontalAlignment="Left" Margin="251,144,0,0" VerticalAlignment="Top" Width="138" Grid.ColumnSpan="2">
+            <ComboBoxItem>Cơ Hữu</ComboBoxItem>
+            <ComboBoxItem>Cơ Sản</ComboBoxItem>
+        </ComboBox>
+        <DatePicker x:Name="date" HorizontalAlignment="Left" Margin="251,179,0,0" VerticalAlignment="Top"/>
+        <ListBox x:Name="txtAll" Margin="251,265,277,83" Grid.ColumnSpan="2"/>
+        <Button x:Name="bthNhap" Content="Nhập" HorizontalAlignment="Left" Margin="211,351,0,0" VerticalAlignment="Top" Click="bthNhap_Click"/>
+        <Button x:Name="btnXoa" Content="Xóa" HorizontalAlignment="Left" Margin="10,356,0,0" VerticalAlignment="Top" Click="btnXoa_Click" Grid.Column="1"/>
+        <Button x:Name="btnWindow2" Content="Window2" HorizontalAlignment="Left" Margin="293,356,0,0" VerticalAlignment="Top" Click="btnWindow2_Click"/>
+        <TextBox x:Name="txtSoTien" HorizontalAlignment="Left" Margin="252,231,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="137" Grid.ColumnSpan="2"/>
+
+
+
+    </Grid>
+</Window>

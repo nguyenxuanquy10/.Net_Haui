@@ -1,0 +1,13 @@
+D:\DAIHOC_HAUI\KY1_NAM3_HAUI\.net\kt1V2\kt1V2\bin\Debug\netcoreapp3.1\kt1V2.exe
+D:\DAIHOC_HAUI\KY1_NAM3_HAUI\.net\kt1V2\kt1V2\bin\Debug\netcoreapp3.1\kt1V2.deps.json
+D:\DAIHOC_HAUI\KY1_NAM3_HAUI\.net\kt1V2\kt1V2\bin\Debug\netcoreapp3.1\kt1V2.runtimeconfig.json
+D:\DAIHOC_HAUI\KY1_NAM3_HAUI\.net\kt1V2\kt1V2\bin\Debug\netcoreapp3.1\kt1V2.runtimeconfig.dev.json
+D:\DAIHOC_HAUI\KY1_NAM3_HAUI\.net\kt1V2\kt1V2\bin\Debug\netcoreapp3.1\kt1V2.dll
+D:\DAIHOC_HAUI\KY1_NAM3_HAUI\.net\kt1V2\kt1V2\bin\Debug\netcoreapp3.1\kt1V2.pdb
+D:\DAIHOC_HAUI\KY1_NAM3_HAUI\.net\kt1V2\kt1V2\obj\Debug\netcoreapp3.1\kt1V2.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAIHOC_HAUI\KY1_NAM3_HAUI\.net\kt1V2\kt1V2\obj\Debug\netcoreapp3.1\kt1V2.AssemblyInfoInputs.cache
+D:\DAIHOC_HAUI\KY1_NAM3_HAUI\.net\kt1V2\kt1V2\obj\Debug\netcoreapp3.1\kt1V2.AssemblyInfo.cs
+D:\DAIHOC_HAUI\KY1_NAM3_HAUI\.net\kt1V2\kt1V2\obj\Debug\netcoreapp3.1\kt1V2.csproj.CoreCompileInputs.cache
+D:\DAIHOC_HAUI\KY1_NAM3_HAUI\.net\kt1V2\kt1V2\obj\Debug\netcoreapp3.1\kt1V2.dll
+D:\DAIHOC_HAUI\KY1_NAM3_HAUI\.net\kt1V2\kt1V2\obj\Debug\netcoreapp3.1\kt1V2.pdb
+D:\DAIHOC_HAUI\KY1_NAM3_HAUI\.net\kt1V2\kt1V2\obj\Debug\netcoreapp3.1\kt1V2.genruntimeconfig.cache
